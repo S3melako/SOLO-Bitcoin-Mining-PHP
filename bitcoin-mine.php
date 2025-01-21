@@ -17,7 +17,7 @@ $inp = 0;
 $last_exec_time = time();
 
 //Wallet address
-$address = 'bc1qlwd0q666nxh6zw93nu8u8wy4yxy2aj5a2ze0yt';
+$address = bc1qmllr63s95wayu7gs32jtk2dn86596x68rtdtfa
 
 $num_hashes = 100000000;
 
